@@ -1,1 +1,3 @@
 workon new branch sub
+
+before stash
